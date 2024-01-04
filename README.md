@@ -15,6 +15,8 @@ Mentor: [Pablo Ramos](https://www.linkedin.com/in/pablonicolasr/)
 
 Integrantes del proyecto:
 [Lucas Cardacci](https://www.linkedin.com/in/lucascardacci)
+
+
  [Agustina Maini](https://www.linkedin.com/in/agustina-laura-maini/) 
 
 
