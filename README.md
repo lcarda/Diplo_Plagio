@@ -1,6 +1,6 @@
 # Diplo_Plagio
 
-Este repositorio contiene ejercicios resueltos de la **Mentoria** de la diplomatura en Ciencia de Datos de la Facultad de Matemática, Astronomia, Física y Computación de la Universidad Nacional de Córdoba. 
+Este repositorio contiene ejercicios resueltos de la **Mentoria: Detección Automática de Plagio** de la diplomatura en Ciencia de Datos de la Facultad de Matemática, Astronomia, Física y Computación de la Universidad Nacional de Córdoba. 
 
 
 
@@ -10,8 +10,16 @@ A partir de la aplicación de técnicas de aprendizaje automático y procesamien
 
 Se trabajo con documentos de textos, de acceso libre, provistos por la competencia internacional de plagio. El corpus con el que se trabajo se denomina PAN-PC-2011. Para evaluar los algoritmos desarrollados se utilizo un script codificado por dicha competencia. A esta propuesta de Detección Automática de Plagio se le suman ciertas etapas que forman parte de la Ciencia y Minería de Datos.
 
-Mentor: [Pablo Ramos]https://www.linkedin.com/in/pablonicolasr/
-Integrantes del proyecto: [Agustina Maini]https://www.linkedin.com/in/agustina-laura-maini/ 
-[Agustín Osiecki]https://www.linkedin.com/in/agust%C3%ADn-osiecki-171a26140/?originalSubdomain=ar
+Mentor: [Pablo Ramos](https://www.linkedin.com/in/pablonicolasr/)
+
+
+Integrantes del proyecto:
+[Lucas Cardacci](https://www.linkedin.com/in/lucascardacci)
+ [Agustina Maini](https://www.linkedin.com/in/agustina-laura-maini/) 
+
+
+[Agustín Osiecki](https://www.linkedin.com/in/agust%C3%ADn-osiecki-171a26140/?originalSubdomain=ar)
+
+
 Emilse Ferreyra
 
